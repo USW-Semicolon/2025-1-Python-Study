@@ -114,7 +114,7 @@ print(a.replace("python", "game"))     # game study
 
 ```python
 number plate= "156다 9119"
-print(number plate[-4:])      # 911
+print(number plate[-4:])      # 9119
 ```
 
 **문제 041**
